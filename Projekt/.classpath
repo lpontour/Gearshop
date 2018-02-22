@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Gearshop/src"/>
+	<classpathentry kind="src" path="Gearshop/web/WEB-INF/lib/mysql-connector-java-5.1.43/src"/>
+	<classpathentry kind="lib" path="Gearshop/web/WEB-INF/lib/mysql-connector-java-5.1.43/mysql-connector-java-5.1.43-bin.jar"/>
+	<classpathentry kind="lib" path="Gearshop/web/WEB-INF/lib/servlet-api-3.0.jar/servlet-api-3.0.jar"/>
+	<classpathentry kind="output" path="Gearshop/out/production/Gearshop"/>
+</classpath>
